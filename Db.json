@@ -15,5 +15,13 @@
       "username": "dikz",
       "pin": "1"
     }
+  ],
+  "blacklist": [
+    {
+      "phone": "6285824460752",
+      "username": "user_6285824460752",
+      "reason": "Malink",
+      "timestamp": "2025-05-09T18:22:15.780Z"
+    }
   ]
 }
