@@ -65,13 +65,5 @@
       "username": "iki1",
       "pin": "iki"
     }
-  ],
-  "blacklist": [
-    {
-      "phone": "62895381233232",
-      "username": "user_62895381233232",
-      "reason": "NO AKSES",
-      "timestamp": "2025-05-19T13:52:18.277Z"
-    }
   ]
 }
